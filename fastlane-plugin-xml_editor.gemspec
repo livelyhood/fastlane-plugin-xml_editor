@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
   # since this would cause a circular dependency
 
   spec.add_dependency 'plist', '~> 3.3.0'
-  spec.add_dependency 'nokogiri', '~> 1.14.3'
+  spec.add_dependency 'nokogiri', '~> 1.16.2'
 
   spec.add_development_dependency 'pry'
   spec.add_development_dependency 'bundler'
